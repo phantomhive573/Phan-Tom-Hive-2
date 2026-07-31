@@ -1,5 +1,5 @@
 {
-  "name": "hinata-bot-v3",
+  "name": "DI ABLO-bot-v3",
   "version": "1.6.00",
   "description": "A simple Bot chat messenger using personal account.",
   "main": "index.js",
@@ -77,15 +77,15 @@
     "dev": "set NODE_ENV=development&& node index.js",
     "prod": "set NODE_ENV=production&& node index.js"
   },
-  "author": "MahMUD",
+  "author": "DIABLO",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mahmudx7/Hinata-Bot-v3.git"
+    "url": "DIABLO"
   },
   "keywords": [],
   "bugs": {
-    "url": "https://github.com/mahmudx7/Hinata-Bot-v3/issues"
+    "url": "CHUSBA NAKI"
   },
-  "homepage": "https://github.com/mahmudx7/Hinata-Bot-v3#readme"
+  "homepage": "KHEYE DIBO KINTU"
 }
